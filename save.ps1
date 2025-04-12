@@ -1,4 +1,4 @@
 git add .
-git commit -m "$args[0]"
+git commit -m "$args"
 git push
 vercel --prod
