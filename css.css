@@ -31,7 +31,8 @@ body {
     background-color: #b6cfc9;
     color: #1A212C};
 .nav
-{ font-family: "Trocchi", sans-serif;}
+{ font-family: "Trocchi", sans-serif;
+text-align: center;}
 .hero
 {
     text-align: center;
