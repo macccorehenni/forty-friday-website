@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Trocchi&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Trocchi', serif;
+    font-weight: 400;
+}
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #f4f4f4;
+}
