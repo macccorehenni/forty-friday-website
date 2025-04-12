@@ -1,23 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Trocchi&display=swap');
+
 @font-face {
-    font-family: 'Roboto Condensed';
-    src: url('https://fonts.gstatic.com/s/robotocondensed/v22/ieVi2ZhZI2eCN5jzbjEETS9weq8-33p9.woff2') format('woff2');
-    font-weight: 100 900;
+    font-family: 'IBM Plex Serif';
+    src: url('https://fonts.gstatic.com/s/ibmplexserif/v14/jizBREVNn1dOx-zrZ2X3pZvkTi182zIZjYh9.woff2') format('woff2');
+    font-weight: 100 700;
     font-style: normal;
 }
+
 @font-face {
     font-family: 'Roboto Condensed';
-    src: url('https://fonts.gstatic.com/s/robotocondensed/v22/ieVl2ZhZI2eCN5jzbjEETS9weq8-33p9.woff2') format('woff2');
+    src: url('https://fonts.gstatic.com/s/robotocondensed/v22/ieVl2ZhZI2eCN5jzbjEETS9weq8-33p9oDM.woff2') format('woff2');
     font-weight: 100 900;
-    font-style: italic;
-}
-@font-face {
-    font-family: 'Trocchi';
-    src: url('https://fonts.gstatic.com/s/trocchi/v11/qWcqB6WkuIDxDZLcPrxeuw.woff2') format('woff2');
     font-style: normal;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Trocchi', serif;
+    font-family: 'IBM Plex Serif', serif;
     font-weight: 400;
     font-variant-caps: all-small-caps;
     color: #162C4F;
@@ -30,7 +26,7 @@ body {
     background-color: #b6cfc9;
     color: #1A212C};
 .nav
-{ font-family: "Trocchi", serif;
+{ font-family: "IBM Plex Serif", serif;
     font-size: 16px;
     line-height: 1.5;
     padding: 10px 0;
